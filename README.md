@@ -1,1 +1,1 @@
-BELAJAR MACHINE LEARNING DICODING
+Belajar Machine Learning untuk Pemula Dicoding
